@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16234b64-098b-41af-aca7-19fde4a15a4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YiLM07Z6jzxRpmRC1RAAj2W43k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\Berg\MohocCamera\ThreadApplication\MediaEmitter\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MediaEmitterServer">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.App" />
+      <module name="MediaEmitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediaEmitterServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MediaEmitterServer" />
+      <module name="MediaEmitter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MediaEmitterServer" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16234b64-098b-41af-aca7-19fde4a15a4f" name="Default Changelist" comment="" />
+      <created>1583420415837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583420415837</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="989" height="275" key="GridCell.Tab.0.bottom" timestamp="1583505788722">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="989" height="275" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583505788722" />
+    <state width="989" height="275" key="GridCell.Tab.0.center" timestamp="1583505788722">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="989" height="275" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583505788722" />
+    <state width="989" height="275" key="GridCell.Tab.0.left" timestamp="1583505788722">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="989" height="275" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583505788722" />
+    <state width="989" height="275" key="GridCell.Tab.0.right" timestamp="1583505788722">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="989" height="275" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583505788722" />
+    <state width="957" height="347" key="GridCell.Tab.1.bottom" timestamp="1583500358417">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="957" height="347" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583500358417" />
+    <state width="957" height="347" key="GridCell.Tab.1.center" timestamp="1583500358417">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="957" height="347" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583500358417" />
+    <state width="957" height="347" key="GridCell.Tab.1.left" timestamp="1583500358417">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="957" height="347" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583500358417" />
+    <state width="957" height="347" key="GridCell.Tab.1.right" timestamp="1583500358417">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="957" height="347" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583500358417" />
+    <state x="2577" y="252" width="606" height="536" key="find.popup" timestamp="1583493061100">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2577" y="252" width="606" height="536" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583493061100" />
+    <state x="209" y="33" key="new project wizard" timestamp="1583420459411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583420459411" />
+  </component>
+</project>

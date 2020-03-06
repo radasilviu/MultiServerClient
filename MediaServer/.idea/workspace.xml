@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b298540d-f206-4fa8-a462-c7c1bfa07e7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YiLd7u4opzAtqDSTmAtYZh1nkz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\Berg\MohocCamera\ThreadApplication\MediaServer\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MediaServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MediaServer" />
+      <module name="MediaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MediaServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b298540d-f206-4fa8-a462-c7c1bfa07e7f" name="Default Changelist" comment="" />
+      <created>1583420552490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583420552490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2685" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1583490764594">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583490764594" />
+    <state width="839" height="258" key="GridCell.Tab.0.bottom" timestamp="1583505789574">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583505789574" />
+    <state width="839" height="258" key="GridCell.Tab.0.center" timestamp="1583505789574">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="258" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583505789574" />
+    <state width="839" height="258" key="GridCell.Tab.0.left" timestamp="1583505789574">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="258" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583505789574" />
+    <state width="839" height="258" key="GridCell.Tab.0.right" timestamp="1583505789574">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="258" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583505789574" />
+    <state width="839" height="286" key="GridCell.Tab.1.bottom" timestamp="1583504956065">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="286" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583504956065" />
+    <state width="839" height="286" key="GridCell.Tab.1.center" timestamp="1583504956065">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="286" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583504956065" />
+    <state width="839" height="286" key="GridCell.Tab.1.left" timestamp="1583504956065">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="286" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583504956065" />
+    <state width="839" height="286" key="GridCell.Tab.1.right" timestamp="1583504956065">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="286" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583504956065" />
+    <state x="2926" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583499969567">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2926" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583499969567" />
+    <state x="2577" y="252" width="606" height="536" key="find.popup" timestamp="1583503770259">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2577" y="252" width="606" height="536" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583503770259" />
+    <state x="3044" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1583501178331">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3044" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583501178331" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MediaServerClientsHandler.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MediaServerClientsHandler.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MediaServerClientsHandler.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MediaServerClientsHandler.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="messageReceived" language="JAVA" />
+        <watch expression="messageReceived.contains(&quot;Class Type&quot;)" language="JAVA" />
+        <watch expression="new String(bytes)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

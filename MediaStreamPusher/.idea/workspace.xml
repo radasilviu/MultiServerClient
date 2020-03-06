@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06add35a-4281-4cb5-beb0-374a736a5f0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YiLXYfowCLfdFepSYd5URULmgc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\Berg\MohocCamera\ThreadApplication\MediaStreamPusher\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MediaStreamPusherClient2">
+    <configuration name="MediaStreamPusherClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MediaStreamPusherClient" />
+      <module name="MediaStreamPusher" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediaStreamPusherClient2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MediaStreamPusherClient" />
+      <module name="MediaStreamPusher" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MediaStreamPusherClient2" />
+      <item itemvalue="Application.MediaStreamPusherClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MediaStreamPusherClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06add35a-4281-4cb5-beb0-374a736a5f0e" name="Default Changelist" comment="" />
+      <created>1583420507337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583420507337</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583500495384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583500495384" />
+    <state x="275" y="199" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583500492382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="275" y="199" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583500492382" />
+    <state width="823" height="184" key="GridCell.Tab.0.bottom" timestamp="1583505816522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="823" height="184" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583505816522" />
+    <state width="823" height="184" key="GridCell.Tab.0.center" timestamp="1583505816522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="823" height="184" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583505816522" />
+    <state width="823" height="184" key="GridCell.Tab.0.left" timestamp="1583505816522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="823" height="184" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583505816522" />
+    <state width="823" height="184" key="GridCell.Tab.0.right" timestamp="1583505816522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="823" height="184" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583505816522" />
+    <state width="800" height="261" key="GridCell.Tab.1.bottom" timestamp="1583495923548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="800" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583495923548" />
+    <state width="800" height="261" key="GridCell.Tab.1.center" timestamp="1583495923548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="800" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583495923548" />
+    <state width="800" height="261" key="GridCell.Tab.1.left" timestamp="1583495923548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="800" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583495923548" />
+    <state width="800" height="261" key="GridCell.Tab.1.right" timestamp="1583495923548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="800" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583495923548" />
+    <state x="463" y="144" width="609" height="536" key="find.popup" timestamp="1583490851336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="144" width="609" height="536" key="find.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583490851336" />
+    <state x="209" y="33" key="new project wizard" timestamp="1583420552455">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583420552455" />
+  </component>
+</project>
